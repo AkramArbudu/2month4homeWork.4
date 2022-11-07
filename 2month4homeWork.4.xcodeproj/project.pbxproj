@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		C51DA8E2290A91A100617535 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51DA8E1290A91A100617535 /* main.swift */; };
+		C51DA8E9290A938500617535 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51DA8E8290A938500617535 /* Product.swift */; };
+		C51DA8EB290A9BC300617535 /* Buyer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51DA8EA290A9BC300617535 /* Buyer.swift */; };
+		C51DA8ED290A9C7500617535 /* Proctocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51DA8EC290A9C7500617535 /* Proctocol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		C51DA8DE290A91A100617535 /* 2month4homeWork.4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2month4homeWork.4; sourceTree = BUILT_PRODUCTS_DIR; };
 		C51DA8E1290A91A100617535 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		C51DA8E8290A938500617535 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		C51DA8EA290A9BC300617535 /* Buyer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buyer.swift; sourceTree = "<group>"; };
+		C51DA8EC290A9C7500617535 /* Proctocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Proctocol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				C51DA8E1290A91A100617535 /* main.swift */,
+				C51DA8E8290A938500617535 /* Product.swift */,
+				C51DA8EA290A9BC300617535 /* Buyer.swift */,
+				C51DA8EC290A9C7500617535 /* Proctocol.swift */,
 			);
 			path = 2month4homeWork.4;
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				C51DA8E2290A91A100617535 /* main.swift in Sources */,
+				C51DA8EB290A9BC300617535 /* Buyer.swift in Sources */,
+				C51DA8E9290A938500617535 /* Product.swift in Sources */,
+				C51DA8ED290A9C7500617535 /* Proctocol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
